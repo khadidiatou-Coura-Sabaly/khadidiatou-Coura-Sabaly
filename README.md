@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**khadidiatou-Coura-Sabaly/khadidiatou-Coura-Sabaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Khadidiatou Coura Sabaly 👋
 
-Here are some ideas to get you started:
+🎓 Engineering student at ENSIIE  
+📚 Applied Mathematics and Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+I'm interested in programming, mathematical modeling,
+data analysis and software development and AI.
+
+## Technical skills
+- **Languages:** C, Java, Python, SQL, OCaml, R
+- **Tools:** Git, Linux, PostgreSQL
+
+## Projects
+Projects in progress — coming soon!
+
+## Contact
+- LinkedIn: khadidiatou Coura Sabaly
+- Email: sabalycoura3@gmail.com
